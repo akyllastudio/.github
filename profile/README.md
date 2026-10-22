@@ -1,94 +1,113 @@
 <div align="center">
 
-<a href="https://akyllastudio.github.io">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://akyllastudio.github.io/assets/logo-completo-branco.png">
-    <img src="https://akyllastudio.github.io/assets/logo-completo.png" alt="Akylla Studio" width="300">
-  </picture>
-</a>
+<a href="https://akyllastudio.github.io"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/banner.png" alt="Akylla Studio: tecnologia que faz pequenos negócios venderem mais" width="100%"></a>
 
-### Sites, lojas virtuais, sistemas e automações para pequenos negócios
+<a href="https://akyllastudio.github.io"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2800&pause=900&color=5CC8FF&center=true&vCenter=true&width=720&lines=Sites+que+trazem+clientes+para+o+seu+neg%C3%B3cio;Lojas+virtuais+com+PIX+e+cart%C3%A3o;Sistemas+de+gest%C3%A3o+sob+medida;Bots+de+WhatsApp+que+atendem+24h" alt="Sites, lojas virtuais, sistemas e bots de WhatsApp"></a>
 
-Atendimento direto com o desenvolvedor · Goiânia/GO e todo o Brasil
-
-[![Site](https://img.shields.io/badge/Site-akyllastudio.github.io-7c4dff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://akyllastudio.github.io)
-[![WhatsApp](https://img.shields.io/badge/Or%C3%A7amento-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562991657619?text=Ol%C3%A1!%20Vi%20o%20GitHub%20da%20Akylla%20Studio%20e%20quero%20um%20or%C3%A7amento.)
+[![Site](https://img.shields.io/badge/Ver_o_site-7c4dff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://akyllastudio.github.io)
+[![WhatsApp](https://img.shields.io/badge/Or%C3%A7amento_gr%C3%A1tis-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562991657619?text=Ol%C3%A1%21%20Vim%20pelo%20GitHub%20da%20Akylla%20Studio%20e%20quero%20um%20or%C3%A7amento.)
 [![Links](https://img.shields.io/badge/Todos_os_links-12d6ff?style=for-the-badge&logo=linktree&logoColor=white)](https://akyllastudio.github.io/links)
+
+**Seu negócio não precisa de mais um site bonito. Precisa de um site que gera conversas, pedidos e vendas.**<br>
+Criamos, implantamos e mantemos a tecnologia certa para pequenas empresas crescerem, com atendimento direto com quem desenvolve.
 
 </div>
 
----
-
-## O que fazemos
-
-| | Serviço | A partir de |
-|---|---|---|
-| 📄 | **Página de vendas**: uma página focada em vender e levar o cliente ao WhatsApp | R$ 900 |
-| 🏢 | **Site institucional**: sua empresa profissional e fácil de encontrar no Google | R$ 1.800 |
-| 🛒 | **Loja virtual**: catálogo, carrinho, PIX e cartão, com loja própria | R$ 4.500 |
-| 📊 | **Sistema sob medida**: vendas, estoque, caixa e agenda num só lugar | sob consulta |
-| 🤖 | **Automações e bots**: atendimento e pedidos no WhatsApp e no Telegram | sob consulta |
-
-Valores, prazos e condições: **[akyllastudio.github.io/#precos](https://akyllastudio.github.io/#precos)**
-
-## Produtos no ar
+## 💼 O que fazemos
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://akyllashop.com"><img src="https://akyllastudio.github.io/assets/img/akyllashop.jpg" alt="Akylla Shop"></a>
-      <h4><a href="https://akyllashop.com">Akylla Shop</a></h4>
-      Loja virtual com catálogo, PIX e cartão pelo Mercado Pago, acompanhamento de pedidos e reserva de estoque.
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://akyllagestao.com.br"><img src="https://akyllastudio.github.io/assets/img/akyllagestao.jpg" alt="Akylla Gestão"></a>
-      <h4><a href="https://akyllagestao.com.br">Akylla Gestão</a></h4>
-      Sistema online de gestão: PDV, caixa, estoque, contas a pagar e receber, agenda e lembretes por WhatsApp.
-    </td>
+    <td width="33%"><a href="https://wa.me/5562991657619?text=Ol%C3%A1%21%20Vim%20pelo%20GitHub%20da%20Akylla%20Studio%20e%20quero%20um%20or%C3%A7amento.%0A%0APreciso%20de%3A%20P%C3%A1gina%20de%20vendas%0AMeu%20objetivo%20%C3%A9%3A%20"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/servico-pagina-de-vendas.png" alt="Página de vendas" width="100%"></a></td>
+    <td width="33%"><a href="https://wa.me/5562991657619?text=Ol%C3%A1%21%20Vim%20pelo%20GitHub%20da%20Akylla%20Studio%20e%20quero%20um%20or%C3%A7amento.%0A%0APreciso%20de%3A%20Site%20institucional%0AMeu%20objetivo%20%C3%A9%3A%20"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/servico-site-institucional.png" alt="Site institucional" width="100%"></a></td>
+    <td width="33%"><a href="https://wa.me/5562991657619?text=Ol%C3%A1%21%20Vim%20pelo%20GitHub%20da%20Akylla%20Studio%20e%20quero%20um%20or%C3%A7amento.%0A%0APreciso%20de%3A%20Loja%20virtual%0AMeu%20objetivo%20%C3%A9%3A%20"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/servico-loja-virtual.png" alt="Loja virtual" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a href="https://wa.me/5562991657619?text=Ol%C3%A1%21%20Vim%20pelo%20GitHub%20da%20Akylla%20Studio%20e%20quero%20um%20or%C3%A7amento.%0A%0APreciso%20de%3A%20Sistema%20sob%20medida%0AMeu%20objetivo%20%C3%A9%3A%20"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/servico-sistema.png" alt="Sistema sob medida" width="100%"></a></td>
+    <td width="33%"><a href="https://wa.me/5562991657619?text=Ol%C3%A1%21%20Vim%20pelo%20GitHub%20da%20Akylla%20Studio%20e%20quero%20um%20or%C3%A7amento.%0A%0APreciso%20de%3A%20Automa%C3%A7%C3%A3o%20ou%20bot%0AMeu%20objetivo%20%C3%A9%3A%20"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/servico-automacao.png" alt="Automação ou bot" width="100%"></a></td>
+    <td width="33%" align="center" valign="middle"><b>Não sabe por onde começar?</b><br><br><a href="https://wa.me/5562991657619?text=Ol%C3%A1%21%20Vim%20pelo%20GitHub%20da%20Akylla%20Studio%20e%20quero%20um%20or%C3%A7amento.%0A%0APreciso%20de%3A%20Ainda%20n%C3%A3o%20sei%2C%20quero%20uma%20orienta%C3%A7%C3%A3o%0AMeu%20objetivo%20%C3%A9%3A%20">💬 Fale com a gente e<br>receba uma orientação grátis</a></td>
   </tr>
 </table>
 
-## Soluções prontas para adaptar
+<p align="center">Prazos, adicionais e condições: <a href="https://akyllastudio.github.io/#precos"><b>tabela completa de preços →</b></a></p>
 
-Produtos próprios que configuramos com a marca e o jeito de trabalhar de cada cliente: implantação mais rápida e custo menor do que começar do zero.
+## 🚀 Produtos no ar
 
-| Solução | Para quem | Situação |
-|---|---|---|
-| 🐾 **PetFlow** | Pet shops: clientes, animais, agenda, PDV, estoque e assinaturas | 🟢 Pronto para implantar |
-| 🍽️ **SaaS Restaurante** | Restaurantes: pedidos pelo WhatsApp, cardápio por QR Code e tela de cozinha | 🟢 Pronto para implantar |
-| 🎫 **Painel Digital** | Clínicas, lojas e órgãos: filas, senhas e painéis de chamada em tempo real | 🟢 Base adaptável |
-| 🍔 **Burger Bot** | Delivery: pedidos completos pelo WhatsApp com PIX e aviso para a cozinha | 🟢 Pronto para implantar |
-| 🏷️ **Affiliate Bot** | Afiliados: ofertas da Shopee, Amazon e Mercado Livre publicadas no Telegram | 🟢 Pronto para implantar |
-| 🎬 **TikTok Pipeline** | Criadores e marcas: vídeos curtos com IA, do roteiro à publicação | 🟢 Pronto para implantar |
-| ✨ **AtlasOps AI** | Pequenas e médias empresas: atendimento e automação com IA | 🟠 Em desenvolvimento |
+Não é mockup: são produtos reais, criados, publicados e mantidos por nós. Clique e navegue.
 
-**[Pedir uma demonstração →](https://wa.me/5562991657619?text=Ol%C3%A1!%20Quero%20conhecer%20as%20solu%C3%A7%C3%B5es%20prontas%20da%20Akylla%20Studio.)**
+<table>
+  <tr>
+    <td width="50%"><a href="https://akyllashop.com"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/produto-akylla-shop.png" alt="Akylla Shop" width="100%"></a></td>
+    <td width="50%"><a href="https://akyllagestao.com.br"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/produto-akylla-gestao.png" alt="Akylla Gestão" width="100%"></a></td>
+  </tr>
+</table>
 
-## Como trabalhamos
+## 🧩 Soluções prontas para adaptar
 
-1. **Conversa:** entendemos seu negócio, seu público e seu objetivo.
-2. **Proposta por escrito:** escopo, prazo, valor e custos de terceiros (domínio, hospedagem, taxas).
-3. **Criação:** você acompanha e aprova cada etapa.
-4. **Entrega:** pagamento em 2 etapas, 50% para iniciar e 50% na entrega aprovada.
+Produtos próprios que configuramos com a **sua marca** e o **seu jeito de trabalhar**. Como a base já existe, a implantação é **mais rápida** e o custo **menor** do que começar do zero. Toque em uma solução para pedir uma demonstração.
 
-## Tecnologias
+<table>
+  <tr>
+    <td width="50%"><a href="https://wa.me/5562991657619?text=Ol%C3%A1%21%20Vim%20pelo%20GitHub%20da%20Akylla%20Studio%20e%20quero%20uma%20demonstra%C3%A7%C3%A3o.%0A%0ASolu%C3%A7%C3%A3o%3A%20Solu%C3%A7%C3%A3o%20PetFlow%20%28gest%C3%A3o%20para%20pet%20shop%29"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/solucao-petflow.png" alt="PetFlow" width="100%"></a></td>
+    <td width="50%"><a href="https://wa.me/5562991657619?text=Ol%C3%A1%21%20Vim%20pelo%20GitHub%20da%20Akylla%20Studio%20e%20quero%20uma%20demonstra%C3%A7%C3%A3o.%0A%0ASolu%C3%A7%C3%A3o%3A%20Solu%C3%A7%C3%A3o%20SaaS%20Restaurante"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/solucao-restaurante.png" alt="SaaS Restaurante" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://wa.me/5562991657619?text=Ol%C3%A1%21%20Vim%20pelo%20GitHub%20da%20Akylla%20Studio%20e%20quero%20uma%20demonstra%C3%A7%C3%A3o.%0A%0ASolu%C3%A7%C3%A3o%3A%20Solu%C3%A7%C3%A3o%20Painel%20Digital%20%28filas%20e%20pain%C3%A9is%29"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/solucao-painel-digital.png" alt="Painel Digital" width="100%"></a></td>
+    <td width="50%"><a href="https://wa.me/5562991657619?text=Ol%C3%A1%21%20Vim%20pelo%20GitHub%20da%20Akylla%20Studio%20e%20quero%20uma%20demonstra%C3%A7%C3%A3o.%0A%0ASolu%C3%A7%C3%A3o%3A%20Solu%C3%A7%C3%A3o%20Burger%20Bot%20%28pedidos%20pelo%20WhatsApp%29"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/solucao-burger-bot.png" alt="Burger Bot" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://wa.me/5562991657619?text=Ol%C3%A1%21%20Vim%20pelo%20GitHub%20da%20Akylla%20Studio%20e%20quero%20uma%20demonstra%C3%A7%C3%A3o.%0A%0ASolu%C3%A7%C3%A3o%3A%20Solu%C3%A7%C3%A3o%20Affiliate%20Bot%20%28ofertas%20autom%C3%A1ticas%29"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/solucao-affiliate-bot.png" alt="Affiliate Bot" width="100%"></a></td>
+    <td width="50%"><a href="https://wa.me/5562991657619?text=Ol%C3%A1%21%20Vim%20pelo%20GitHub%20da%20Akylla%20Studio%20e%20quero%20uma%20demonstra%C3%A7%C3%A3o.%0A%0ASolu%C3%A7%C3%A3o%3A%20Solu%C3%A7%C3%A3o%20TikTok%20Pipeline%20%28v%C3%ADdeos%20com%20IA%29"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/solucao-tiktok-pipeline.png" alt="TikTok Pipeline" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://wa.me/5562991657619?text=Ol%C3%A1%21%20Vim%20pelo%20GitHub%20da%20Akylla%20Studio%20e%20quero%20uma%20demonstra%C3%A7%C3%A3o.%0A%0ASolu%C3%A7%C3%A3o%3A%20Solu%C3%A7%C3%A3o%20AtlasOps%20AI%20%28atendimento%20com%20IA%29"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/solucao-atlasops.png" alt="AtlasOps AI" width="100%"></a></td>
+    <td width="50%" align="center" valign="middle"><h3>Precisa de algo diferente?</h3>Adaptamos qualquer uma dessas bases<br>ou criamos do zero para o seu negócio.<br><br><a href="https://wa.me/5562991657619?text=Ol%C3%A1%21%20Vim%20pelo%20GitHub%20da%20Akylla%20Studio%20e%20quero%20um%20or%C3%A7amento.%0A%0APreciso%20de%3A%20Sistema%20sob%20medida%0AMeu%20objetivo%20%C3%A9%3A%20"><b>💬 Conversar sobre meu projeto →</b></a></td>
+  </tr>
+</table>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-![Mercado Pago](https://img.shields.io/badge/Mercado_Pago-00B1EA?style=flat-square&logo=mercadopago&logoColor=white)
+## ⭐ Por que a Akylla Studio
+
+<table>
+  <tr>
+    <td width="33%" valign="top"><h4>👤 Direto com quem faz</h4>Sem atendente e sem agência no meio. Quem te atende é quem desenvolve.</td>
+    <td width="33%" valign="top"><h4>⚡ Base pronta, entrega rápida</h4>7 soluções já desenvolvidas que adaptamos ao seu negócio.</td>
+    <td width="33%" valign="top"><h4>📱 Pensado para o celular</h4>Seus clientes chegam pelo celular. O projeto começa por ele.</td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top"><h4>🔒 Tudo no seu nome</h4>Domínio, hospedagem e conteúdo são seus. Você não fica preso.</td>
+    <td width="33%" valign="top"><h4>📝 Proposta por escrito</h4>Escopo, prazo, valor e custos de terceiros claros antes de começar.</td>
+    <td width="33%" valign="top"><h4>🛟 Suporte de verdade</h4>30 dias grátis após a entrega e manutenção mensal opcional.</td>
+  </tr>
+</table>
+
+## 🔄 Como trabalhamos
+
+<a href="https://akyllastudio.github.io/#processo"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/processo.png" alt="Conversa, proposta, criação e entrega" width="100%"></a>
+
+## 🛠️ Tecnologias
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <br>
+  <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp API">
+  <img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  <img src="https://img.shields.io/badge/Mercado_Pago-00B1EA?style=for-the-badge&logo=mercadopago&logoColor=white" alt="Mercado Pago">
+  <img src="https://img.shields.io/badge/PIX-32BCAD?style=for-the-badge&logo=pix&logoColor=white" alt="PIX">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</p>
 
 ---
 
-<div align="center">
+<a href="https://wa.me/5562991657619?text=Ol%C3%A1%21%20Vim%20pelo%20GitHub%20da%20Akylla%20Studio%20e%20quero%20tirar%20meu%20projeto%20do%20papel."><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/cta.png" alt="Vamos tirar seu projeto do papel? Chamar no WhatsApp" width="100%"></a>
 
-**Vamos tirar seu projeto do papel?**
-
-[💬 WhatsApp (62) 99165-7619](https://wa.me/5562991657619) · [🌐 Site](https://akyllastudio.github.io) · [🔗 Links](https://akyllastudio.github.io/links) · [👤 @Tanattos18](https://github.com/Tanattos18)
-
-</div>
+<p align="center">
+  <a href="https://akyllastudio.github.io">🌐 Site</a> &nbsp;·&nbsp;
+  <a href="https://akyllastudio.github.io/links">🔗 Links</a> &nbsp;·&nbsp;
+  <a href="https://wa.me/5562991657619">💬 (62) 99165-7619</a> &nbsp;·&nbsp;
+  <a href="https://github.com/Tanattos18">👤 @Tanattos18</a>
+  <br><sub>Goiânia/GO · atendimento em todo o Brasil</sub>
+</p>
