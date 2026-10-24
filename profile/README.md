@@ -43,23 +43,23 @@ Não é mockup: são produtos reais, criados, publicados e mantidos por nós. Cl
 
 ## 🧩 Soluções prontas para adaptar
 
-Produtos próprios que configuramos com a **sua marca** e o **seu jeito de trabalhar**. Como a base já existe, a implantação é **mais rápida** e o custo **menor** do que começar do zero. Toque em uma solução para pedir uma demonstração.
+Produtos próprios que configuramos com a **sua marca** e o **seu jeito de trabalhar**. Como a base já existe, a implantação é **mais rápida** e o custo **menor** do que começar do zero. Toque em uma solução para ver todos os detalhes no site.
 
 <table>
   <tr>
-    <td width="50%"><a href="https://wa.me/5562991657619?text=Ol%C3%A1%21%20Vim%20pelo%20GitHub%20da%20Akylla%20Studio%20e%20quero%20uma%20demonstra%C3%A7%C3%A3o.%0A%0ASolu%C3%A7%C3%A3o%3A%20Solu%C3%A7%C3%A3o%20PetFlow%20%28gest%C3%A3o%20para%20pet%20shop%29"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/solucao-petflow.png" alt="PetFlow" width="100%"></a></td>
-    <td width="50%"><a href="https://wa.me/5562991657619?text=Ol%C3%A1%21%20Vim%20pelo%20GitHub%20da%20Akylla%20Studio%20e%20quero%20uma%20demonstra%C3%A7%C3%A3o.%0A%0ASolu%C3%A7%C3%A3o%3A%20Solu%C3%A7%C3%A3o%20SaaS%20Restaurante"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/solucao-restaurante.png" alt="SaaS Restaurante" width="100%"></a></td>
+    <td width="50%"><a href="https://akyllastudio.github.io/#solucao-petflow"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/solucao-petflow.png" alt="PetFlow" width="100%"></a></td>
+    <td width="50%"><a href="https://akyllastudio.github.io/#solucao-restaurante"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/solucao-restaurante.png" alt="SaaS Restaurante" width="100%"></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://wa.me/5562991657619?text=Ol%C3%A1%21%20Vim%20pelo%20GitHub%20da%20Akylla%20Studio%20e%20quero%20uma%20demonstra%C3%A7%C3%A3o.%0A%0ASolu%C3%A7%C3%A3o%3A%20Solu%C3%A7%C3%A3o%20Painel%20Digital%20%28filas%20e%20pain%C3%A9is%29"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/solucao-painel-digital.png" alt="Painel Digital" width="100%"></a></td>
-    <td width="50%"><a href="https://wa.me/5562991657619?text=Ol%C3%A1%21%20Vim%20pelo%20GitHub%20da%20Akylla%20Studio%20e%20quero%20uma%20demonstra%C3%A7%C3%A3o.%0A%0ASolu%C3%A7%C3%A3o%3A%20Solu%C3%A7%C3%A3o%20Burger%20Bot%20%28pedidos%20pelo%20WhatsApp%29"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/solucao-burger-bot.png" alt="Burger Bot" width="100%"></a></td>
+    <td width="50%"><a href="https://akyllastudio.github.io/#solucao-painel-digital"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/solucao-painel-digital.png" alt="Painel Digital" width="100%"></a></td>
+    <td width="50%"><a href="https://akyllastudio.github.io/#solucao-burger-bot"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/solucao-burger-bot.png" alt="Burger Bot" width="100%"></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://wa.me/5562991657619?text=Ol%C3%A1%21%20Vim%20pelo%20GitHub%20da%20Akylla%20Studio%20e%20quero%20uma%20demonstra%C3%A7%C3%A3o.%0A%0ASolu%C3%A7%C3%A3o%3A%20Solu%C3%A7%C3%A3o%20Affiliate%20Bot%20%28ofertas%20autom%C3%A1ticas%29"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/solucao-affiliate-bot.png" alt="Affiliate Bot" width="100%"></a></td>
-    <td width="50%"><a href="https://wa.me/5562991657619?text=Ol%C3%A1%21%20Vim%20pelo%20GitHub%20da%20Akylla%20Studio%20e%20quero%20uma%20demonstra%C3%A7%C3%A3o.%0A%0ASolu%C3%A7%C3%A3o%3A%20Solu%C3%A7%C3%A3o%20TikTok%20Pipeline%20%28v%C3%ADdeos%20com%20IA%29"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/solucao-tiktok-pipeline.png" alt="TikTok Pipeline" width="100%"></a></td>
+    <td width="50%"><a href="https://akyllastudio.github.io/#solucao-affiliate-bot"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/solucao-affiliate-bot.png" alt="Affiliate Bot" width="100%"></a></td>
+    <td width="50%"><a href="https://akyllastudio.github.io/#solucao-tiktok-pipeline"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/solucao-tiktok-pipeline.png" alt="TikTok Pipeline" width="100%"></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://wa.me/5562991657619?text=Ol%C3%A1%21%20Vim%20pelo%20GitHub%20da%20Akylla%20Studio%20e%20quero%20uma%20demonstra%C3%A7%C3%A3o.%0A%0ASolu%C3%A7%C3%A3o%3A%20Solu%C3%A7%C3%A3o%20AtlasOps%20AI%20%28atendimento%20com%20IA%29"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/solucao-atlasops.png" alt="AtlasOps AI" width="100%"></a></td>
+    <td width="50%"><a href="https://akyllastudio.github.io/#solucao-atlasops-ai"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/solucao-atlasops.png" alt="AtlasOps AI" width="100%"></a></td>
     <td width="50%" align="center" valign="middle"><h3>Precisa de algo diferente?</h3>Adaptamos qualquer uma dessas bases<br>ou criamos do zero para o seu negócio.<br><br><a href="https://wa.me/5562991657619?text=Ol%C3%A1%21%20Vim%20pelo%20GitHub%20da%20Akylla%20Studio%20e%20quero%20um%20or%C3%A7amento.%0A%0APreciso%20de%3A%20Sistema%20sob%20medida%0AMeu%20objetivo%20%C3%A9%3A%20"><b>💬 Conversar sobre meu projeto →</b></a></td>
   </tr>
 </table>
