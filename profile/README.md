@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://akyllastudio.github.io"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/banner.png?v=2" alt="Akylla Studio: tecnologia que faz pequenos negócios venderem mais" width="100%"></a>
+<a href="https://akyllastudio.github.io"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/banner.png?v=3" alt="Akylla Studio: tecnologia que faz pequenos negócios venderem mais" width="100%"></a>
 
 <a href="https://akyllastudio.github.io"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2800&pause=900&color=5CC8FF&center=true&vCenter=true&width=720&lines=Sites+que+trazem+clientes+para+o+seu+neg%C3%B3cio;Lojas+virtuais+com+PIX+e+cart%C3%A3o;Sistemas+de+gest%C3%A3o+sob+medida;Bots+de+WhatsApp+que+atendem+24h" alt="Sites, lojas virtuais, sistemas e bots de WhatsApp"></a>
 
@@ -38,6 +38,9 @@ Não é mockup: são produtos reais, criados, publicados e mantidos por nós. Cl
   <tr>
     <td width="50%"><a href="https://akyllashop.com"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/produto-akylla-shop.png" alt="Akylla Shop" width="100%"></a></td>
     <td width="50%"><a href="https://akyllagestao.com.br"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/produto-akylla-gestao.png" alt="Akylla Gestão" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><a href="https://tanattos18.github.io/Cardapio_Digital/"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/produto-cardapio-digital.png" alt="Cardápio Digital: vitrine com 15 modelos" width="50%"></a><br><b><a href="https://tanattos18.github.io/Cardapio_Digital/">Ver os 15 modelos de cardápio digital →</a></b></td>
   </tr>
 </table>
 
