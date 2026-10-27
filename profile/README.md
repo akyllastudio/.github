@@ -44,6 +44,20 @@ Não é mockup: são produtos reais, criados, publicados e mantidos por nós. Cl
   </tr>
 </table>
 
+## 🤝 Projetos para clientes
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://akyllastudio.github.io/#projeto-curalog"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/projeto-curalog.png" alt="CuraLog: sistema de gestão para home care" width="100%"></a></td>
+    <td width="50%" valign="middle">
+      <h3>CuraLog</h3>
+      <b>Sistema sob medida · Concluído</b><br><br>
+      Gestão para uma empresa de enfermagem e logística home care: lançamento de medicações, curativos, coletas e corridas, tarifas por paciente e região, <b>fechamento mensal com Excel e PDF</b>, recebimentos, tratamentos previsto × realizado e resultado financeiro.<br><br>
+      <a href="https://akyllastudio.github.io/#projeto-curalog"><b>Ver o projeto →</b></a>
+    </td>
+  </tr>
+</table>
+
 ## 🧩 Soluções prontas para adaptar
 
 Produtos próprios que configuramos com a **sua marca** e o **seu jeito de trabalhar**. Como a base já existe, a implantação é **mais rápida** e o custo **menor** do que começar do zero. Toque em uma solução para ver todos os detalhes no site.
