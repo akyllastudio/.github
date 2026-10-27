@@ -40,7 +40,7 @@ Não é mockup: são produtos reais, criados, publicados e mantidos por nós. Cl
     <td width="50%"><a href="https://akyllagestao.com.br"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/produto-akylla-gestao.png" alt="Akylla Gestão" width="100%"></a></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><a href="https://tanattos18.github.io/Cardapio_Digital/"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/produto-cardapio-digital.png" alt="Cardápio Digital: vitrine com 15 modelos" width="50%"></a><br><b><a href="https://tanattos18.github.io/Cardapio_Digital/">Ver os 15 modelos de cardápio digital →</a></b></td>
+    <td colspan="2" align="center"><a href="https://tanattos18.github.io/Cardapio_Digital/"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/produto-cardapio-digital.png?v=2" alt="Cardápio Digital: vitrine com 30 modelos" width="50%"></a><br><b><a href="https://tanattos18.github.io/Cardapio_Digital/">Ver os 30 modelos de cardápio digital (a partir de R$ 297) →</a></b></td>
   </tr>
 </table>
 
@@ -50,7 +50,7 @@ Produtos próprios que configuramos com a **sua marca** e o **seu jeito de traba
 
 <table>
   <tr>
-    <td width="50%"><a href="https://akyllastudio.github.io/#solucao-cardapio-digital"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/solucao-cardapio-digital.png" alt="Cardápio Digital" width="100%"></a></td>
+    <td width="50%"><a href="https://akyllastudio.github.io/#solucao-cardapio-digital"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/solucao-cardapio-digital.png?v=2" alt="Cardápio Digital" width="100%"></a></td>
     <td width="50%"><a href="https://akyllastudio.github.io/#solucao-petflow"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/solucao-petflow.png" alt="PetFlow" width="100%"></a></td>
   </tr>
   <tr>
