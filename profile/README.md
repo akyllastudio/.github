@@ -6,6 +6,7 @@
 
 [![Site](https://img.shields.io/badge/Ver_o_site-7c4dff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://akyllastudio.github.io)
 [![WhatsApp](https://img.shields.io/badge/Or%C3%A7amento_gr%C3%A1tis-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562991657619?text=Ol%C3%A1%21%20Vim%20pelo%20GitHub%20da%20Akylla%20Studio%20e%20quero%20um%20or%C3%A7amento.)
+[![Instagram](https://img.shields.io/badge/@akylla.studio.ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akylla.studio.ai/)
 [![Links](https://img.shields.io/badge/Todos_os_links-12d6ff?style=for-the-badge&logo=linktree&logoColor=white)](https://akyllastudio.github.io/links)
 
 **Seu negócio não precisa de mais um site bonito. Precisa de um site que gera conversas, pedidos e vendas.**<br>
@@ -126,6 +127,7 @@ Produtos próprios que configuramos com a **sua marca** e o **seu jeito de traba
 
 <p align="center">
   <a href="https://akyllastudio.github.io">🌐 Site</a> &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/akylla.studio.ai/">📸 @akylla.studio.ai</a> &nbsp;·&nbsp;
   <a href="https://akyllastudio.github.io/links">🔗 Links</a> &nbsp;·&nbsp;
   <a href="https://wa.me/5562991657619">💬 (62) 99165-7619</a> &nbsp;·&nbsp;
   <a href="https://github.com/Tanattos18">👤 @Tanattos18</a>
