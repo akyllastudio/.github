@@ -57,6 +57,15 @@ Não é mockup: são produtos reais, criados, publicados e mantidos por nós. Cl
       <a href="https://akyllastudio.github.io/#projeto-curalog"><b>Ver o projeto →</b></a>
     </td>
   </tr>
+  <tr>
+    <td width="50%"><a href="https://tanattos18.github.io/Vitor_Santos_Contador/"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/projeto-vitor-santos.png" alt="Site do contador Vitor Santos" width="100%"></a></td>
+    <td width="50%" valign="middle">
+      <h3>Vitor Santos · Contador</h3>
+      <b>Site institucional · No ar</b><br><br>
+      Site para um contador do Maranhão: cartão de visita digital, especialidades, <b>calculadora de impostos</b> (MEI, Simples Nacional e Lucro Presumido), simulador de investimentos e contato direto pelo WhatsApp.<br><br>
+      <a href="https://tanattos18.github.io/Vitor_Santos_Contador/"><b>Ver o site no ar →</b></a>
+    </td>
+  </tr>
 </table>
 
 ## 🧩 Soluções prontas para adaptar
