@@ -58,7 +58,7 @@ Não é mockup: são produtos reais, criados, publicados e mantidos por nós. Cl
     </td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://tanattos18.github.io/Vitor_Santos_Contador/"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/projeto-vitor-santos.png" alt="Site do contador Vitor Santos" width="100%"></a></td>
+    <td width="50%"><a href="https://tanattos18.github.io/Vitor_Santos_Contador/"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/projeto-vitor-santos.png?v=2" alt="Site do contador Vitor Santos" width="100%"></a></td>
     <td width="50%" valign="middle">
       <h3>Vitor Santos · Contador</h3>
       <b>Site institucional · No ar</b><br><br>
