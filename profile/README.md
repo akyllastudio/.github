@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://akyllastudio.github.io"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/banner.png?v=3" alt="Akylla Studio: tecnologia que faz pequenos negócios venderem mais" width="100%"></a>
+<a href="https://akyllastudio.github.io"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/banner.png?v=4" alt="Akylla Studio: tecnologia que faz pequenos negócios venderem mais" width="100%"></a>
 
 <a href="https://akyllastudio.github.io"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2800&pause=900&color=5CC8FF&center=true&vCenter=true&width=720&lines=Sites+que+trazem+clientes+para+o+seu+neg%C3%B3cio;Lojas+virtuais+com+PIX+e+cart%C3%A3o;Sistemas+de+gest%C3%A3o+sob+medida;Bots+de+WhatsApp+que+atendem+24h" alt="Sites, lojas virtuais, sistemas e bots de WhatsApp"></a>
 
@@ -41,7 +41,8 @@ Não é mockup: são produtos reais, criados, publicados e mantidos por nós. Cl
     <td width="50%"><a href="https://akyllagestao.com.br"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/produto-akylla-gestao.png" alt="Akylla Gestão" width="100%"></a></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><a href="https://tanattos18.github.io/Cardapio_Digital/"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/produto-cardapio-digital.png?v=2" alt="Cardápio Digital: vitrine com 30 modelos" width="50%"></a><br><b><a href="https://tanattos18.github.io/Cardapio_Digital/">Ver os 30 modelos de cardápio digital (a partir de R$ 297) →</a></b></td>
+    <td width="50%" align="center"><a href="https://tanattos18.github.io/Cardapio_Digital/"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/produto-cardapio-digital.png?v=2" alt="Cardápio Digital: vitrine com 30 modelos" width="100%"></a><br><b><a href="https://tanattos18.github.io/Cardapio_Digital/">Ver os 30 modelos (a partir de R$ 297) →</a></b></td>
+    <td width="50%" align="center"><a href="https://bot.akyllagestao.com.br/"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/produto-akylla-bot.png" alt="Akylla Bot: atendimento e pedidos no WhatsApp com IA" width="100%"></a><br><b><a href="https://bot.akyllagestao.com.br/">Conhecer o Akylla Bot →</a></b></td>
   </tr>
 </table>
 
@@ -64,6 +65,24 @@ Não é mockup: são produtos reais, criados, publicados e mantidos por nós. Cl
       <b>Site institucional · No ar</b><br><br>
       Site para um contador do Maranhão: cartão de visita digital, especialidades, <b>calculadora de impostos</b> (MEI, Simples Nacional e Lucro Presumido), simulador de investimentos e contato direto pelo WhatsApp.<br><br>
       <a href="https://tanattos18.github.io/Vitor_Santos_Contador/"><b>Ver o site no ar →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://akyllastudio.github.io/#projeto-caixeta"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/projeto-caixeta.png" alt="Supermercado Caixeta: pedidos online" width="100%"></a></td>
+    <td width="50%" valign="middle">
+      <h3>Supermercado Caixeta</h3>
+      <b>Sistema de pedidos online · No ar</b><br><br>
+      Loja de entrega para um supermercado de bairro: mais de 500 produtos, <b>Pix que confirma sozinho</b>, cartão pelo Mercado Pago, pedido impresso automaticamente no balcão e painel com promoções agendadas e importação por planilha.<br><br>
+      <a href="https://akyllastudio.github.io/#projeto-caixeta"><b>Ver o projeto →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://tanattos18.github.io/Catalago_Lorrany/"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/projeto-lorrany.png" alt="Doçuras da Lorrany: catálogo de bolos" width="100%"></a></td>
+    <td width="50%" valign="middle">
+      <h3>Doçuras da Lorrany</h3>
+      <b>Catálogo digital · No ar</b><br><br>
+      Catálogo para uma confeitaria: bolos por quilo, docinhos, <b>encomenda com data e horário</b>, Pix e um painel para a dona atualizar fotos e preços sozinha.<br><br>
+      <a href="https://tanattos18.github.io/Catalago_Lorrany/"><b>Ver o catálogo no ar →</b></a>
     </td>
   </tr>
 </table>
