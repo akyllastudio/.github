@@ -7,6 +7,8 @@
 [![Site](https://img.shields.io/badge/Ver_o_site-7c4dff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://akyllastudio.github.io)
 [![WhatsApp](https://img.shields.io/badge/Or%C3%A7amento_gr%C3%A1tis-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562991657619?text=Ol%C3%A1%21%20Vim%20pelo%20GitHub%20da%20Akylla%20Studio%20e%20quero%20um%20or%C3%A7amento.)
 [![Instagram](https://img.shields.io/badge/@akylla.studio.ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akylla.studio.ai/)
+[![YouTube](https://img.shields.io/badge/@AkyllaStudio-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AkyllaStudio)
+[![TikTok](https://img.shields.io/badge/@akylla.studio-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@akylla.studio)
 [![Links](https://img.shields.io/badge/Todos_os_links-12d6ff?style=for-the-badge&logo=linktree&logoColor=white)](https://akyllastudio.github.io/links)
 
 **Seu negócio não precisa de mais um site bonito. Precisa de um site que gera conversas, pedidos e vendas.**<br>
@@ -105,7 +107,7 @@ Produtos próprios que configuramos com a **sua marca** e o **seu jeito de traba
     <td width="50%"><a href="https://akyllastudio.github.io/#solucao-affiliate-bot"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/solucao-affiliate-bot.png" alt="Affiliate Bot" width="100%"></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://akyllastudio.github.io/#solucao-tiktok-pipeline"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/solucao-tiktok-pipeline.png" alt="TikTok Pipeline" width="100%"></a></td>
+    <td width="50%"><a href="https://akyllastudio.github.io/#solucao-video-3d"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/solucao-video-3d.png" alt="Vídeo 3D Explicativo" width="100%"></a></td>
     <td width="50%"><a href="https://akyllastudio.github.io/#solucao-atlasops-ai"><img src="https://raw.githubusercontent.com/akyllastudio/.github/main/assets/solucao-atlasops.png" alt="AtlasOps AI" width="100%"></a></td>
   </tr>
   <tr>
@@ -156,6 +158,8 @@ Produtos próprios que configuramos com a **sua marca** e o **seu jeito de traba
 <p align="center">
   <a href="https://akyllastudio.github.io">🌐 Site</a> &nbsp;·&nbsp;
   <a href="https://www.instagram.com/akylla.studio.ai/">📸 @akylla.studio.ai</a> &nbsp;·&nbsp;
+  <a href="https://www.youtube.com/@AkyllaStudio">▶️ YouTube</a> &nbsp;·&nbsp;
+  <a href="https://www.tiktok.com/@akylla.studio">🎵 TikTok</a> &nbsp;·&nbsp;
   <a href="https://akyllastudio.github.io/links">🔗 Links</a> &nbsp;·&nbsp;
   <a href="https://wa.me/5562991657619">💬 (62) 99165-7619</a> &nbsp;·&nbsp;
   <a href="https://github.com/Tanattos18">👤 @Tanattos18</a>
